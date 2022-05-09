@@ -7,4 +7,5 @@
         <embed height="EDIT THIS" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="SWF FILE URL" type="application/x-shockwave-flash" width="THIS TOO"></embed>
 </div>
 ```
+* Edit the script.
 * Embed it on your site
